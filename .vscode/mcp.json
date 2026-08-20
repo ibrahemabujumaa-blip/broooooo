@@ -1,13 +1,4 @@
 {
-	"servers": {
-		"console-ninja": {
-			"command": "powershell.exe",
-			"args": [
-				"node",
-				"$Env:USERPROFILE/.console-ninja/mcp/"
-			],
-			"type": "stdio"
-		}
-	},
-	"inputs": []
+	"inputs": [],
+	"servers": {}
 }
